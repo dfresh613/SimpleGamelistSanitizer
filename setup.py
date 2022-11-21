@@ -2,7 +2,7 @@
 from distutils.core import setup
 import setuptools
 setup(name='sgsanitizer',
-      version='1.0.0',
+      version='1.0.1',
       description="Provide an ES gamelist.xml file and it will do its best to "
                   "sanitize and remove any vulgar, casino, mahjong, or other "
                   "known unusable games from the gamelist. Primarily for arcade games",
