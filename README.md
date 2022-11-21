@@ -15,7 +15,7 @@ Primarily for arcade gameslist
  sgsanitizer -h
  usage: sgsanitizer [-h] gamelist_path output_file
 
- Provide a gamelist.xml file and it will do its best to sanitize and removeany
+ Provide a gamelist.xml file and it will do its best to sanitize and remove any
  vulgar, casino, mahjong, or other known unusable games from the gamelist.
  Primarily for arcade games
 
