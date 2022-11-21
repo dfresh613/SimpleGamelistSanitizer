@@ -5,7 +5,7 @@ gamelist to sanitize and remove any vulgar, casino, mahjong, duplicate or other 
 Primarily for arcade gameslist
  
 ## Installation
-pip3 install sgsanitizer
+`pip3 install sgsanitizer`
 
 ## Usage
 `sgsanitizer <gamelist.xml> <output_file>`
