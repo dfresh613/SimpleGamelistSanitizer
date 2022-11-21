@@ -9,7 +9,7 @@ setup(name='sgsanitizer',
       author='Douglas Rohde',
       packages=['sgs'],
       keywords='gamelist.xml gamelist emulationstation',
-      url='https://github.com/ScienceLogic/vm2ami/archive/1.0.0.zip',
+      url='https://github.com/dfresh613/SimpleGamelistSanitizer/archive/1.0.0.zip',
       license="MIT",
       install_requires=[
           'lxml'
