@@ -86,7 +86,7 @@ def check_games(gameslist_path, output_path):
 def parse_args():
     parser = argparse.ArgumentParser(prog="sgsanitizer",
                                      description="Provide a gamelist.xml file and it will do its best to "
-                                                 "sanitize and removeany vulgar, casino, mahjong, or other "
+                                                 "sanitize and remove any vulgar, casino, mahjong, or other "
                                                  "known unusable games from the gamelist. Primarily for arcade games")
     parser.add_argument('gamelist_path', help="full path to gamelist.xml", type=argparse.FileType('r',
                                                                                                   encoding='latin1'))
